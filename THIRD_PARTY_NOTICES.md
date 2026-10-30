@@ -1,3 +1,5 @@
 # Third-party notices
 
-Windows, Microsoft, PlayStation and PSP are trademarks of their respective owners. No official Windows, Microsoft or Sony artwork is included intentionally. References to PTF Studio are for research; its software is not bundled. No third-party license is applied to Microsoft or Sony trademarks.
+Lucide icon glyphs are licensed under the ISC License. Copyright (c) Lucide Contributors 2022; portions copyright Cole Bemis 2013–2022. The complete license is in `docs/LUCIDE-LICENSE.txt`.
+
+Windows, Microsoft, PlayStation and PSP are trademarks of their respective owners. The project is unofficial and not endorsed by Microsoft or Sony. No official Windows wallpaper or icon files are included. PTF Studio and LibPSPThemes were consulted for development and verification, but their source code is not bundled.

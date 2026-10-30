@@ -1,0 +1,164 @@
+{
+  "category": {
+    "1": [
+      "Settings",
+      "settings"
+    ],
+    "2": [
+      "Image",
+      "photo"
+    ],
+    "3": [
+      "Music",
+      "music"
+    ],
+    "4": [
+      "Clapperboard",
+      "video"
+    ],
+    "5": [
+      "Tv",
+      "tv"
+    ],
+    "6": [
+      "Gamepad2",
+      "game"
+    ],
+    "7": [
+      "Globe",
+      "network"
+    ],
+    "8": [
+      "Grid2X2",
+      "extras"
+    ]
+  },
+  "first": {
+    "2": [
+      "MemoryStick",
+      "memory-stick"
+    ],
+    "4": [
+      "Disc3",
+      "umd"
+    ],
+    "6": [
+      "Camera",
+      "camera"
+    ],
+    "8": [
+      "Share2",
+      "game-sharing"
+    ],
+    "10": [
+      "Save",
+      "saved-data"
+    ],
+    "12": [
+      "RefreshCw",
+      "umd-update"
+    ],
+    "14": [
+      "CloudDownload",
+      "network-update"
+    ],
+    "16": [
+      "Usb",
+      "usb"
+    ],
+    "18": [
+      "Video",
+      "video-settings"
+    ],
+    "20": [
+      "Image",
+      "photo-settings"
+    ],
+    "22": [
+      "Settings",
+      "system-settings"
+    ],
+    "24": [
+      "Palette",
+      "theme-settings"
+    ],
+    "26": [
+      "CalendarClock",
+      "date-time"
+    ],
+    "28": [
+      "BatteryCharging",
+      "power-save"
+    ],
+    "30": [
+      "Monitor",
+      "external-display"
+    ],
+    "32": [
+      "Volume2",
+      "sound"
+    ],
+    "34": [
+      "Shield",
+      "security"
+    ],
+    "36": [
+      "Rss",
+      "rss-settings"
+    ],
+    "38": [
+      "Wifi",
+      "network-settings"
+    ],
+    "40": [
+      "BookOpen",
+      "manual"
+    ],
+    "42": [
+      "MonitorPlay",
+      "remote-play"
+    ],
+    "44": [
+      "Radio",
+      "internet-radio"
+    ],
+    "46": [
+      "Rss",
+      "rss"
+    ],
+    "48": [
+      "Globe",
+      "browser"
+    ],
+    "50": [
+      "Search",
+      "search"
+    ],
+    "52": [
+      "UserRound",
+      "account"
+    ],
+    "54": [
+      "HardDrive",
+      "fallback-storage"
+    ],
+    "56": [
+      "Bluetooth",
+      "bluetooth"
+    ],
+    "58": [
+      "Music2",
+      "sensme"
+    ]
+  },
+  "second": {
+    "0": [
+      "Settings2",
+      "second-settings"
+    ],
+    "2": [
+      "ChevronRight",
+      "second-item"
+    ]
+  }
+}

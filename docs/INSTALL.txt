@@ -1,0 +1,4 @@
+Windows 11 PSP Theme 0.9.0 — test build
+Copy Windows_11_PSP_Theme.ptf to PSP/THEME/ on your PSP storage. On PSP Go, use the internal storage's PSP/THEME/ folder. Eject safely, then select Settings > Theme Settings > Theme on the PSP. Select the default theme to revert. Hardware and firmware compatibility has not been tested.
+
+تم آزمایشی ویندوز ۱۱: فایل PTF را در پوشه PSP/THEME/ حافظه PSP کپی کنید. برای PSP Go می‌توانید از حافظه داخلی استفاده کنید. دستگاه را به‌صورت ایمن جدا کنید و در Settings > Theme Settings > Theme تم را انتخاب کنید. برای بازگشت، تم پیش‌فرض را انتخاب کنید. سازگاری سخت‌افزاری و فریمور هنوز آزمایش نشده است.
